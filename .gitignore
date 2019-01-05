@@ -4,3 +4,6 @@
 *.so
 *.o
 *.cpp
+*.pyc
+.vscode/settings.json
+Part1-Getting-Started/fibonacci_example/fast/fibonacci.c
